@@ -8,7 +8,7 @@ namespace CSharpCodingPractice.Arrays
 {
     public  class LargestNumber
     {
-        public static void Main(string[] args)
+        public static void Run()
         {
             int[] number = [10, 15, 20, 25, 30, 55];
 
