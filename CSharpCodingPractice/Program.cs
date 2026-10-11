@@ -8,6 +8,8 @@ public class Program
 
         //SecondLargestNumber.Run();
 
-        ThirdLargestNumber.Run();
+        //ThirdLargestNumber.Run();
+
+        ReverseArray.Run();
     }
 }
