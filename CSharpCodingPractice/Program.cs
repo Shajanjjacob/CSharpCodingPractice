@@ -6,6 +6,8 @@ public class Program
     {
         //SmallestNumber.Run();
 
-        SecondLargestNumber.Run();
+        //SecondLargestNumber.Run();
+
+        ThirdLargestNumber.Run();
     }
 }

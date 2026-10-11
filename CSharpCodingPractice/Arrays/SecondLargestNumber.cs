@@ -13,7 +13,7 @@ namespace CSharpCodingPractice.Arrays
             int[] Number = [222, 33, 44, 555, 6666, 7, 8, 12, 34];
          
             //ALSO A METHOD USING LINQ
-            //var secondlargest = Number.OrderByDescending(x => x).Distinct().Skip(1).First();
+            //var secondlargest = Number.OrderByDescending(x => x).Distinct().Skip(1).FirstorDefault();
             //Console.WriteLine($"Second largest number is {secondlargest}");
 
             int first = int.MinValue;
